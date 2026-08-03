@@ -1,3 +1,4 @@
+
 package bHighlevel;
 
 import org.testng.annotations.Test;
@@ -15,18 +16,6 @@ public class  B14_FlipkartGeneric {
 	
 	
 	public WebDriver driver;
-
-
-
-
-	
-
-	
-	
-
-
-   
-
 	
 	public void generic (String str)  throws Exception {
 		
